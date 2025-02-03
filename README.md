@@ -1,5 +1,5 @@
-Making changes in the readme file here.
+GitHub presentation.
 
-Testing for pull requests.
+Working on commmand line arguments.
 
-Testing again
+Setting up git bash.
